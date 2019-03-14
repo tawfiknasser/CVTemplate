@@ -1,10 +1,20 @@
 /*  Mobile First Design  */
 body {
   display: flex;
+  font-family: "Oswald", sans-serif;
+  font-size: 16px;
 }
 .header {
-  font-family: "Oswald", sans-serif;
-  font-size: 10.25em;
+  padding-left: 3%;
+}
+p {
+  margin: 0;
+}
+#mainName {
+  font-size: 8em;
+}
+#mainNameTitle {
+  font-size: 4em;
 }
 /* Tablet */
 
