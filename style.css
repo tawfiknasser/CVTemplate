@@ -9,6 +9,7 @@ body {
 
 section {
   padding-left: 3%;
+  padding-right: 3%;
 }
 
 p {
@@ -16,7 +17,7 @@ p {
   font-size: 1em;
 }
 #nameTitleSection {
-  width: 97%;
+  width: 94%;
   background-color: #82b1ff;
   /* colors will be changed */
 }
