@@ -2,6 +2,10 @@
 body {
   display: flex;
 }
+.header {
+  font-family: "Oswald", sans-serif;
+  font-size: 10.25em;
+}
 /* Tablet */
 
 /* Desktop */
