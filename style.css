@@ -1,17 +1,22 @@
 /*  Mobile First Design  */
 body {
   display: flex;
+  flex-direction: column;
   font-family: "Oswald", sans-serif;
   font-size: 16px;
-}
-.header {
-  padding-left: 3%;
-}
-p {
   margin: 0;
 }
+
+section {
+  padding-left: 3%;
+}
+
+p {
+  margin: 0;
+  font-size: 1em;
+}
 #nameTitleSection {
-  width: 100%;
+  width: 97%;
   background-color: #82b1ff;
   /* colors will be changed */
 }
