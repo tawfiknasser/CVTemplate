@@ -10,12 +10,18 @@ body {
 p {
   margin: 0;
 }
+#nameTitleSection {
+  width: 100%;
+  background-color: #82b1ff;
+  /* colors will be changed */
+}
 #mainName {
   font-size: 8em;
 }
 #mainNameTitle {
   font-size: 4em;
 }
+
 /* Tablet */
 
 /* Desktop */
