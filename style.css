@@ -16,6 +16,7 @@ p {
   margin: 0;
   font-size: 1em;
 }
+
 #nameTitleSection {
   width: 94%;
   background-color: #82b1ff;
@@ -26,6 +27,17 @@ p {
 }
 #mainNameTitle {
   font-size: 4em;
+}
+.grid-contact {
+  display: grid;
+  grid-template-columns: 30% 70%;
+  grid-gap: 1%;
+  align-content: center;
+  align-items: center;
+  text-align: center;
+}
+.icon {
+  width: 50%;
 }
 
 /* Tablet */
