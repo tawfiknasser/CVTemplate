@@ -29,6 +29,7 @@ p {
   font-size: 4em;
 }
 .grid-contact {
+  background-color: #ffffe0	;
   display: grid;
   grid-template-columns: 30% 70%;
   grid-gap: 1%;
