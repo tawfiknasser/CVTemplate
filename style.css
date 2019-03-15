@@ -8,8 +8,6 @@ body {
 }
 
 section {
-  padding-left: 3%;
-  padding-right: 3%;
 }
 
 p {
@@ -17,17 +15,27 @@ p {
   font-size: 1em;
   margin-left: 10px;
 }
+div {
+  font-size: 1.5em;
+}
 
 #nameTitleSection {
   width: 94%;
   background-color: #87cefa;
   /* colors will be changed */
+  padding-left: 3%;
+  padding-right: 3%;
 }
 #mainName {
   font-size: 8em;
 }
 #mainNameTitle {
   font-size: 4em;
+}
+.info {
+  padding-left: 3%;
+  padding-right: 3%;
+  margin-top: 1%;
 }
 .grid-contact {
   background-color: #ffffe0;
@@ -37,6 +45,10 @@ p {
   align-content: center;
   align-items: center;
   text-align: center;
+  padding-left: 6%;
+  padding-right: 6%;
+  margin-left: 3%;
+  margin-right: 3%;
 }
 .icon {
   width: 50%;
@@ -45,6 +57,15 @@ p {
 .subHeader {
   border-left: 10px solid #87cefa;
   font-size: 2em;
+}
+
+.G1 {
+  padding-left: 3%;
+  padding-right: 3%;
+}
+.G2 {
+  padding-left: 3%;
+  padding-right: 3%;
 }
 
 /* Tablet */
