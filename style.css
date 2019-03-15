@@ -27,7 +27,11 @@ p {
 #mainNameTitle {
   font-size: 4em;
 }
-
+.grid-contact {
+  display: grid;
+  grid-template-columns: 30% 70%;
+  grid-gap: 1%;
+}
 /* Tablet */
 
 /* Desktop */
